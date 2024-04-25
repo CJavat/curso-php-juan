@@ -7,7 +7,7 @@
 .yarn/install-state.gz
 /postgres
 .env
-/mysql
+mysql/
 
 # testing
 /coverage
