@@ -6,11 +6,6 @@
 </p>
 
 ## DEV
-1. renombrar el `.env.template` a `.env`.
-2. Configurar variables de entorno.
-3. Ejecutar el comando 
-```
-docker compose up -d
-```
-4. Ir al localhost:3001 y ver que funcione bien.
-5. Comprobar que la DB también esté funcionando.
+1. Mover la carpeta a la carpeta `www de Laragon`.
+2. Iniciar proyecto con `{nombre}.test`. Ejemplo: `bienesraicesphp.test`.
+3. Al finalizar volver a moverlo a la carpeta del curso para subirlo en GitHub.
