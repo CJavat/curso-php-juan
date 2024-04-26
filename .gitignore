@@ -5,9 +5,10 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-/postgres
+postgres/
 .env
 mysql/
+node_modules/
 
 # testing
 /coverage

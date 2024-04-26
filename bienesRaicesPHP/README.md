@@ -8,4 +8,5 @@
 ## DEV
 1. Mover la carpeta a la carpeta `www de Laragon`.
 2. Iniciar proyecto con `{nombre}.test`. Ejemplo: `bienesraicesphp.test`.
-3. Al finalizar volver a moverlo a la carpeta del curso para subirlo en GitHub.
+3. Compilar archivo GULP `npm run dev`.
+4. Al finalizar volver a moverlo a la carpeta del curso para subirlo en GitHub.
